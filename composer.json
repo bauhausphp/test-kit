@@ -1,0 +1,13 @@
+{
+    "name": "bauhaus/test-kit",
+    "description": "Test kit used for bauhaus packages testing",
+    "keywords": ["bauhaus", "tests"],
+
+    "type": "library",
+    "license": "MIT",
+
+    "require": {
+        "php": "^8.0",
+        "phpunit/phpunit": "^9.4"
+    }
+}
